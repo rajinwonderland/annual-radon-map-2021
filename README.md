@@ -1,2 +1,2 @@
-# annual-radon-map-2021
+# annual-aqi-choropleth-2021
 Created with CodeSandbox
